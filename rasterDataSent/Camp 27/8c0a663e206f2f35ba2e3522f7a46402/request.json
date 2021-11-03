@@ -1,0 +1,8 @@
+{
+    "headers": {
+        "User-Agent": "sentinelhub-py/v3.1.0"
+    },
+    "payload": null,
+    "timestamp": "2021-11-02T17:19:21.487933",
+    "url": "https://services.sentinel-hub.com/ogc/wcs/c565d81d-bb72-4556-9150-f5e7215956e2?SERVICE=wcs&WARNINGS=False&MAXCC=5.0&BBOX=20.918561751323807%2C92.25145509507661%2C20.94830489895196%2C92.26862660093695&FORMAT=image%2Ftiff&CRS=EPSG%3A4326&TIME=2019-11-30T04%3A32%3A33%2F2019-11-30T04%3A32%3A33&RESX=10m&RESY=10m&COVERAGE=NDVI&REQUEST=GetCoverage&VERSION=1.1.2"
+}
