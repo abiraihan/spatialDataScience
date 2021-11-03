@@ -77,11 +77,3 @@ class readData:
             data_args['longAttributes'], data_args['polyAttributes']
             )
         return geoData, fileDesc
-
-dataPth = "wash_infrastructures_gps_master_spreadsheet_september_30_2021.xlsx"
-data = readData.readExcel(
-    dataPth, 'GPS',
-    latAttributes = 'Latitude',
-    longAttributes = 'Longitude')
-
-gData = data[0]
