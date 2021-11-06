@@ -6,3 +6,4 @@ Created on Fri Oct 29 14:19:14 2021
 """
 
 import geoshapes as gsp
+import geopandas
